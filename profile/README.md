@@ -7,17 +7,14 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
 - [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr) ![](https://www.r-pkg.org/badges/version/hwsdr)
 - [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
+- [Google Earth Engine subsets](https://github.com/bluegreen-labs/gee_subset) - python package to extract point based time series from GEE
+
 
 ## Vegetation modelling
 
 - [phenor](https://github.com/bluegreen-labs/phenor) - a phenology modelling framework in R - [doi:10.1111/2041-210X.12970](https://doi.org/10.1111/2041-210X.12970)
 - [ONEFlux docker images](https://github.com/bluegreen-labs/ONEFlux_containers) - automating deployment of the ONEFlux processing pipeline
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr) ![](https://www.r-pkg.org/badges/version/phenocamr)
-
-## Movement ecology
-
-- [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf) ![](https://www.r-pkg.org/badges/version/igrf)
-- [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data
 
 ## (near-surface) Remote sensing
 
@@ -26,6 +23,11 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
 - [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
+
+## Movement ecology
+
+- [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf) ![](https://www.r-pkg.org/badges/version/igrf)
+- [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data
 
 ## Teaching (workflows)
 
