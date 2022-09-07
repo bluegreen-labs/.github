@@ -14,7 +14,8 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 ## Vegetation modelling
 
-- phenor
+- [phenor](https://github.com/bluegreen-labs/phenor) - a phenology modelling framework in R - 
+- [ONEFlux docker images](https://github.com/bluegreen-labs/ONEFlux_containers) - automating deployment of the ONEFlux processing pipeline
 - phenocamr - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
 
 ## Movement ecology
@@ -24,8 +25,10 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 ## Near-surface remote sensing
 
-- phenocam installation tool
-- photosphere ([virtualforest.io](virtualforest.io))
+- [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for the PhenoCam camera hardware
+- [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the ([virtualforest.io](virtualforest.io)) project
+- 
+
 
 
 
