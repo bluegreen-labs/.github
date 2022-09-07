@@ -2,25 +2,25 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 ## Accessing data
 
-- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr)
-- [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr)
-- [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
-- [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr)
+- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr) ![](https://www.r-pkg.org/badges/version/ecmwfr)
+- [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr) ![](https://www.r-pkg.org/badges/version/snotelr)
+- [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
+- [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr) ![](https://www.r-pkg.org/badges/version/hwsdr)
 
 ## Remote sensing
 
-- [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
-- [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
+- [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
+- [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
 
 ## Vegetation modelling
 
 - [phenor](https://github.com/bluegreen-labs/phenor) - a phenology modelling framework in R - [doi:10.1111/2041-210X.12970](https://doi.org/10.1111/2041-210X.12970)
 - [ONEFlux docker images](https://github.com/bluegreen-labs/ONEFlux_containers) - automating deployment of the ONEFlux processing pipeline
-- [phenocamr](https://github.com/bluegreen-labs/phenocamr) - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
+- [phenocamr](https://github.com/bluegreen-labs/phenocamr) - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr) ![](https://www.r-pkg.org/badges/version/phenocamr)
 
 ## Movement ecology
 
-- [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf)
+- [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf) ![](https://www.r-pkg.org/badges/version/igrf)
 - [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data
 
 ## Near-surface remote sensing
