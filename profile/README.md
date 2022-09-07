@@ -20,7 +20,7 @@ The BlueGreen open science labs provides free tools to manage and access environ
 ## Movement ecology
 
 - [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf)
-- geoloctools
+- [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data
 
 ## Near-surface remote sensing
 
