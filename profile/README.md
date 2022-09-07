@@ -27,7 +27,8 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 - [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for the PhenoCam camera hardware
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the ([virtualforest.io](virtualforest.io)) project
-- 
+- [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral raspberry pi camera
+- [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
 
 
 
