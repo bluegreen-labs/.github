@@ -9,8 +9,8 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 ## Remote sensing
 
-- MODISTools ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
-- FOTO (Fourier Transform Textural Ordination) ![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
+- [MODISTools](https://github.com/bluegreen-labs/MODISTools)   ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
+- [FOTO (Fourier Transform Textural Ordination)](https://github.com/bluegreen-labs/foto)   ![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
 
 ## Vegetation modelling
 
