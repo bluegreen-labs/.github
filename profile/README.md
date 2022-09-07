@@ -1,0 +1,1 @@
+The BlueGreen open science labs provides free tools to manage and access environmental data. These projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community.
