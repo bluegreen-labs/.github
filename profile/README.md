@@ -1,4 +1,4 @@
-The BlueGreen open science labs provides free tools to manage and access environmental data. These projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community.
+The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tools to manage and access environmental data. Projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
 
 ## Accessing data
 
@@ -30,8 +30,10 @@ The BlueGreen open science labs provides free tools to manage and access environ
 - [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
 
-## Teaching
+## Teaching (workflows)
 
-- 
-
+- [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
+- [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
+- [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
+- [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 
