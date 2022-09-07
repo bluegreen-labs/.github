@@ -4,7 +4,7 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr)
 - [snotelr](https://github.com/bluegreen-labs/snotelr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr)
-- [daymetr](https://github.com/bluegreen-labs/daymetr)  ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
+- [daymetr](https://github.com/bluegreen-labs/daymetr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
 - [hwsdr](https://github.com/bluegreen-labs/hwsdr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr)
 
 ## Remote sensing
