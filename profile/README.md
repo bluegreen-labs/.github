@@ -2,20 +2,20 @@ The BlueGreen open science labs provides free tools to manage and access environ
 
 ## Accessing data
 
-- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr)
-- [snotelr](https://github.com/bluegreen-labs/snotelr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr)
-- [daymetr](https://github.com/bluegreen-labs/daymetr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
-- [hwsdr](https://github.com/bluegreen-labs/hwsdr)   ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr)
+- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fieldss ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr)
+- [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr)
+- [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
+- [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr)
 
 ## Remote sensing
 
-- [MODISTools](https://github.com/bluegreen-labs/MODISTools)   ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
-- [FOTO (Fourier Transform Textural Ordination)](https://github.com/bluegreen-labs/foto)   ![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
+- [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
+- [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination ![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
 
 ## Vegetation modelling
 
 - phenor
-- phenocamr ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
+- phenocamr - process PhenoCam data into start and end of season values ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
 
 ## Movement ecology
 
