@@ -20,7 +20,7 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 
 - [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for the PhenoCam camera hardware
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the [virtualforest.io](virtualforest.io) project
-- [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral raspberry pi camera
+- [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral Raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
 - [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
 
