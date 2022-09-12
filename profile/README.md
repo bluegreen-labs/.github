@@ -2,11 +2,11 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 
 ## Accessing data
 
-- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr) ![](https://www.r-pkg.org/badges/version/ecmwfr)
-- [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr) ![](https://www.r-pkg.org/badges/version/snotelr)
-- [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
-- [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr) ![](https://www.r-pkg.org/badges/version/hwsdr)
 - [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
+- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr) ![](https://www.r-pkg.org/badges/version/ecmwfr)
+- [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
+- [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr) ![](https://www.r-pkg.org/badges/version/snotelr)
+- [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr) ![](https://www.r-pkg.org/badges/version/hwsdr)
 - [Google Earth Engine subsets](https://github.com/bluegreen-labs/gee_subset) - python package to extract point based time series from GEE
 
 
