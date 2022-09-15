@@ -1,6 +1,6 @@
 The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tools to manage and access environmental data. Projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
 
-## Accessing data
+## Accessing data :open_file_folder:
 
 - [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr) ![](https://www.r-pkg.org/badges/version/ecmwfr)
@@ -10,13 +10,13 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [Google Earth Engine subsets](https://github.com/bluegreen-labs/gee_subset) - python package to extract point based time series from GEE
 
 
-## Vegetation modelling
+## Vegetation modelling :deciduous_tree:
 
 - [phenor](https://github.com/bluegreen-labs/phenor) - a phenology modelling framework in R - [doi:10.1111/2041-210X.12970](https://doi.org/10.1111/2041-210X.12970)
 - [ONEFlux docker images](https://github.com/bluegreen-labs/ONEFlux_containers) - automating deployment of the ONEFlux processing pipeline
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr) ![](https://www.r-pkg.org/badges/version/phenocamr)
 
-## (near-surface) Remote sensing
+## (near-surface) Remote sensing :satellite:
 
 - [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for the PhenoCam camera hardware
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the [virtualforest.io](virtualforest.io) project
@@ -24,12 +24,12 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
 - [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
 
-## Movement ecology
+## Movement ecology :bird:
 
 - [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf) ![](https://www.r-pkg.org/badges/version/igrf)
 - [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data
 
-## Teaching (workflows)
+## Teaching (workflows) :books:
 
 - [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
 - [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
