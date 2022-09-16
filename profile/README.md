@@ -7,8 +7,8 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
 - [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr) ![](https://www.r-pkg.org/badges/version/snotelr)
 - [hwsdr](https://github.com/bluegreen-labs/hwsdr) - download global soil properties data - ![](https://cranlogs.r-pkg.org/badges/grand-total/hwsdr) ![](https://www.r-pkg.org/badges/version/hwsdr)
+- [amerifluxr](https://github.com/chuhousen/amerifluxr) - access Ameriflux data programmatically (with Housen Chu) ![](https://cranlogs.r-pkg.org/badges/grand-total/amerifluxr) ![](https://www.r-pkg.org/badges/version/amerifluxr)
 - [Google Earth Engine subsets](https://github.com/bluegreen-labs/gee_subset) - python package to extract point based time series from GEE
-
 
 ## Vegetation modelling :deciduous_tree:
 
