@@ -37,3 +37,5 @@ The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tool
 - [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 
+
+To stay up to date please follow Koen Hufkens at <a rel="me" href="https://mastodon.social/@koen_hufkens">mastodon.social</a> or <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
