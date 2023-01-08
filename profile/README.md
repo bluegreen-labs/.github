@@ -1,4 +1,4 @@
-The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tools to manage and access environmental data. Projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
+The [BlueGreen labs](bluegreenlabs.org) open science resources provide free tools to manage, access and model environmental data. Projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
 
 ## Accessing data :open_file_folder:
 
