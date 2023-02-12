@@ -36,6 +36,7 @@ The [BlueGreen labs](https://bluegreenlabs.org) open science resources provide f
 - [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
 - [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
+- [Contributing to open source software](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md) - basic instructions on how and why to contribute to FOSS
 
 
 To stay up to date please follow Koen Hufkens at <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
