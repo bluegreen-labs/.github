@@ -1,5 +1,7 @@
 The [BlueGreen labs](https://bluegreenlabs.org) open science resources provide free tools to manage, access and model environmental data. Projects consist of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
 
+If you find anything missing, a software bug or want to add documentation we refer to [our contribution guidelines](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md). Please be mindfull of our [code of conduct](https://github.com/bluegreen-labs/policies/blob/main/CONDUCT.md) and [consultancy policy](https://github.com/bluegreen-labs/policies/blob/main/CONSULTANCY.md) within the context of software development.
+
 ## Accessing data :open_file_folder:
 
 - [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
