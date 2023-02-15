@@ -40,5 +40,8 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 - [Contributing to open source software](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md) - basic instructions on how and why to contribute to FOSS
 
+## Lab administration
+
+- [Repository backups]() - small script to backup (select) github repositories
 
 To stay up to date please follow Koen Hufkens at <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
