@@ -40,7 +40,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 - [Contributing to open source software](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md) - basic instructions on how and why to contribute to FOSS
 
-## Lab administration
+## Lab administration & management
 
 - [Repository backups](https://github.com/bluegreen-labs/github_backup) - small script to backup (select) github repositories
 
