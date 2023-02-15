@@ -42,6 +42,6 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 ## Lab administration
 
-- [Repository backups]() - small script to backup (select) github repositories
+- [Repository backups](https://github.com/bluegreen-labs/github_backup) - small script to backup (select) github repositories
 
 To stay up to date please follow Koen Hufkens at <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
