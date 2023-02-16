@@ -32,6 +32,11 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [skylight](https://github.com/bluegreen-labs/skylight) - a simple sky illuminance model - ![](https://cranlogs.r-pkg.org/badges/grand-total/skylight) ![](https://www.r-pkg.org/badges/version/skylight)
 - [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data (:boom: experimental :boom:)
 
+## Citizen Science
+
+- [Jungle Weather](https://github.com/bluegreen-labs/jungleweather) - pre- and post-processing workflow of the Jungle Weather #citsci project
+- [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - pre- and post-processing workflow of the Jungle Rhythms #citsci project
+
 ## Teaching (workflows) :books:
 
 - [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
