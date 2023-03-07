@@ -41,12 +41,12 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 - [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
 - [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
-- [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
-- [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 - [Contributing to open source software](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md) - basic instructions on how and why to contribute to FOSS
 
 ## Lab administration & management
 
+- [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
+- [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 - [Repository backups](https://github.com/bluegreen-labs/github_backup) - small script to backup (select) github repositories
 
 To stay up to date please follow Koen Hufkens at <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
