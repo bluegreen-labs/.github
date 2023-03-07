@@ -49,4 +49,4 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 - [Repository backups](https://github.com/bluegreen-labs/github_backup) - small script to backup (select) github repositories
 
-To stay up to date please follow Koen Hufkens at <a rel="me" href="https://fosstodon.org/@koen_hufkens">fosstodon.org</a>.
+To stay up to date please follow Koen Hufkens at <a rel="me" href="https://mastodon.social/@koen_hufkens">mastodon.social</a>.
