@@ -5,6 +5,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 ## Accessing data :open_file_folder:
 
 - [MODISTools](https://github.com/bluegreen-labs/MODISTools) - extract point based MODIS data - ![](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools) ![](https://www.r-pkg.org/badges/version/MODISTools)
+- [appeears](https://github.com/bluegreen-labs/appeears) - extract point based remote sensing data - (:boom: under development :boom:)
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - ECMWF data on the climate data store (CDS) including ERA5 fields - ![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr) ![](https://www.r-pkg.org/badges/version/ecmwfr)
 - [daymetr](https://github.com/bluegreen-labs/daymetr) - high resolution climatology DAYMET data for CONUS - ![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr) ![](https://www.r-pkg.org/badges/version/daymetr)
 - [snotelr](https://github.com/bluegreen-labs/snotelr) - SNOTEL snow coverage data - ![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr) ![](https://www.r-pkg.org/badges/version/snotelr)
