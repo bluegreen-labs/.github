@@ -41,6 +41,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 ## Teaching (workflows) :books:
 
+- [A handful of Pixels](https://bluegreen-labs.github.io/handful_of_pixels/) - an introduction geospatial data science in R
 - [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
 - [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
 - [Contributing to open source software](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md) - basic instructions on how and why to contribute to FOSS
