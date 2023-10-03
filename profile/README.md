@@ -32,7 +32,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [igrf](https://github.com/bluegreen-labs/igrf) - calculate the international geomagnetic reference field - ![](https://cranlogs.r-pkg.org/badges/grand-total/igrf) ![](https://www.r-pkg.org/badges/version/igrf)
 - [skylight](https://github.com/bluegreen-labs/skylight) - a simple sky illuminance model - ![](https://cranlogs.r-pkg.org/badges/grand-total/skylight) ![](https://www.r-pkg.org/badges/version/skylight)
 - [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data (:boom: experimental :boom:)
-- [skytrackr](https://github.com/bluegreen-labs/skytrackr) - geolocation by light using a physical sky illuminance model (:boom: experimental :boom:)
+- [skytrackr](https://github.com/bluegreen-labs/skytrackr) - geolocation by light using a physical sky illuminance model
 
 ## Citizen Science :couple:
 
