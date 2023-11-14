@@ -34,10 +34,10 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [geoloctools](https://github.com/bluegreen-labs/geoloctools) - pre-process geolocation tracking data (:boom: experimental :boom:)
 - [skytrackr](https://github.com/bluegreen-labs/skytrackr) - geolocation by light using a physical sky illuminance model (:boom: experimental :boom:)
 
-## Citizen Science :couple:
+## Data Recovery & Citizen Science :couple:
 
-- [Jungle Weather](https://github.com/bluegreen-labs/jungleweather) - pre- and post-processing workflow of the Jungle Weather #citsci project
-- [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - pre- and post-processing workflow of the Jungle Rhythms #citsci project
+- [Jungle Weather](https://github.com/bluegreen-labs/jungleweather) - pre- and post-processing workflow of the Jungle Weather #citsci data recovery project
+- [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - pre- and post-processing workflow of the Jungle Rhythms #citsci data recovery project
 
 ## Teaching (workflows) :books:
 
