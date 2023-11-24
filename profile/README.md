@@ -36,8 +36,8 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 ## Data Recovery & Citizen Science :couple:
 
-- [Jungle Weather](https://github.com/bluegreen-labs/jungleweather) - pre- and post-processing workflow of the Jungle Weather #citsci data recovery project
-- [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - pre- and post-processing workflow of the Jungle Rhythms #citsci data recovery project
+- [Jungle Weather](https://github.com/bluegreen-labs/jungleweather) - workflow of the [Jungle Weather](https://cobecore.org/) (citizen science) data recovery project
+- [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - workflow of the [Jungle Rhythms](https://cobecore.org/jungleweather/) (citizen science) data recovery project
 
 ## Teaching (workflows) :books:
 
