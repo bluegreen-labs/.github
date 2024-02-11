@@ -21,7 +21,8 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 ## (near-surface) Remote sensing :earth_africa:
 
-- [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for the PhenoCam camera hardware
+- [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for Netcam SC5 camera hardware
+- [phenocam installation tool (v2)](https://github.com/bluegreen-labs/phenocam_installation_tool_v2) - installation routine for Netcam Live2 camera hardware
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the [virtualforest.io](https://virtualforest.io) project
 - [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral Raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
