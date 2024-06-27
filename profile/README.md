@@ -1,6 +1,6 @@
 The [BlueGreen labs](https://bluegreenlabs.org) open science resources provide free tools to manage, access and model environmental data. Projects consist of output of formal research lines, software and hardware implementations through which BlueGreen tries to give back to the open source scientific community. Below you find a short list with links to our most popular projects.
 
-If you find anything missing, a software bug or want to add documentation we refer to [our contribution guidelines](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md). Please be mindfull of our [code of conduct](https://github.com/bluegreen-labs/policies/blob/main/CONDUCT.md) and [consultancy policy](https://github.com/bluegreen-labs/policies/blob/main/CONSULTANCY.md) within the context of open source software development. Our time and expertise is valuable, to quickly pick our brains, problem-solving, validation and insights please [book an appointment](https://calendly.com/info-clo2/bluegreen-labs-office-hours).
+If you find anything missing, a software bug or want to add documentation we refer to [our contribution guidelines](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md). Please be mindfull of our [code of conduct](https://github.com/bluegreen-labs/policies/blob/main/CONDUCT.md) and [consultancy policy](https://github.com/bluegreen-labs/policies/blob/main/CONSULTANCY.md) within the context of open source software development. Our time and expertise is valuable, to quickly pick our brains, problem-solving, validation and insights please [book an appointment](https://calendly.com/info-clo2/bluegreen-labs-office-hours). To stay up to date please follow us on [LinkedIn](https://www.linkedin.com/company/bluegreen-labs).
 
 ## Accessing data :open_file_folder:
 
@@ -52,4 +52,3 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [Linux research environment](https://github.com/bluegreen-labs/BGLabs_research_environment) - a simple bash script to setup a research environment
 - [R environment setup](https://github.com/bluegreen-labs/BGLabs_R_environment) - a simple R script to install required R libraries (native)
 
-To stay up to date please follow Koen Hufkens at <a rel="me" href="https://mastodon.social/@koen_hufkens">mastodon.social</a>.
