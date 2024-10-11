@@ -26,7 +26,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the [virtualforest.io](https://virtualforest.io) project
 - [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral Raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
-- [FOTO](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
+- [foto](https://github.com/bluegreen-labs/foto) - classify image texture using the Fourier Transform Textural Ordination - ![](https://cranlogs.r-pkg.org/badges/grand-total/foto) ![](https://www.r-pkg.org/badges/version/foto)
 
 ## Movement ecology :bird:
 
