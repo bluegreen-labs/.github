@@ -41,7 +41,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [Jungle Rhythms](https://github.com/bluegreen-labs/junglerhythms) - workflow of the [Jungle Rhythms](https://cobecore.org/jungleweather/) (citizen science) data recovery project
 
 ### weaHTR data recovery workflows
-- [weaHTR](https://github.com/bluegreen-labs/weahtr_guides) - template matching marking tool for GIMP
+- [weaHTR guides](https://github.com/bluegreen-labs/weahtr_guides) - template matching marking tool for GIMP
 
 ## Teaching (workflows) :books:
 
