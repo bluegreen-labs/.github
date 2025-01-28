@@ -42,7 +42,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 ### weaHTR data recovery workflows
 - [weaHTR guides](https://github.com/bluegreen-labs/weahtr_guides) - template matching marking tool for GIMP
-- [weaHTR python tools](https://github.com/bluegreen-labs/weahtr) - python toolset for character recognition of weather records ( :boom: experimental :boom: )
+- [weaHTR python package](https://github.com/bluegreen-labs/weahtr) - python toolset for character recognition of weather records ( :boom: experimental :boom: )
 
 ## Teaching (workflows) :books:
 
