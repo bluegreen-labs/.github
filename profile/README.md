@@ -47,6 +47,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 ## Teaching (workflows) :books:
 
 - [A handful of Pixels](https://bluegreen-labs.github.io/handful_of_pixels/) - an introduction to geospatial data science in R
+- [Text recognition and analysis](https://bluegreen-labs.github.io/text_recognition_and_analysis/) - short course on the basics and management of handwritten data recovery projects
 - [R tutorials](https://github.com/bluegreen-labs/R_tutorials) - code for our collection of tutorials on data science
 - [R project template](https://github.com/bluegreen-labs/R_project_template) - a basic R template to populate project directories
 - [Landscape element segmentation](https://github.com/bluegreen-labs/LUCAS_landscape_elements) - a machine learning demo using pyTorch to segment street level imagery
