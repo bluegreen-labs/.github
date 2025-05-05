@@ -18,6 +18,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 - [phenor](https://github.com/bluegreen-labs/phenor) - a phenology modelling framework in R - [doi:10.1111/2041-210X.12970](https://doi.org/10.1111/2041-210X.12970)
 - [ONEFlux docker images](https://github.com/bluegreen-labs/ONEFlux_containers) - automating deployment of the ONEFlux processing pipeline
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - process PhenoCam data into start and end of season values - ![](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr) ![](https://www.r-pkg.org/badges/version/phenocamr)
+- [PhenoGrass](https://github.com/bluegreen-labs/phenograss-example) - a grassland phenology model tuned on phenocam time series - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13365191.svg)](https://doi.org/10.5281/zenodo.13365191)
 
 ## (near-surface) Remote sensing :earth_africa:
 
