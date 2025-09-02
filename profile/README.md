@@ -24,6 +24,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 - [phenocam installation tool](https://github.com/bluegreen-labs/phenocam_installation_tool) - installation routine for Netcam SC5 camera hardware
 - [phenocam installation tool (v2)](https://github.com/bluegreen-labs/phenocam_installation_tool_v2) - installation routine for Netcam Live2 camera hardware
+- [phenocam vegindex processing workflow](https://github.com/bluegreen-labs/vegindex_dev) - processing workflow for phenocam images
 - [photosphere](https://github.com/bluegreen-labs/photosphere) - hardware setup of the [virtualforest.io](https://virtualforest.io) project
 - [TetraPi](https://github.com/bluegreen-labs/TetraPi) - a multi-spectral Raspberry pi camera
 - [RPi camera responses](https://github.com/bluegreen-labs/raspberry_pi_camera_responses) - Raspberry pi camera spectral responses
