@@ -3,7 +3,7 @@ The [BlueGreen labs](https://bluegreenlabs.org) open-science resources provide f
 If you find anything missing, a software bug or want to add documentation we refer to [our contribution guidelines](https://github.com/bluegreen-labs/policies/blob/main/CONTRIBUTING.md). Please be mindfull of our [code of conduct](https://github.com/bluegreen-labs/policies/blob/main/CONDUCT.md) and [consultancy policy](https://github.com/bluegreen-labs/policies/blob/main/CONSULTANCY.md) within the context of open source software development. Our time and expertise is valuable, to quickly pick our brains, problem-solving, validation and insights please [book an appointment](https://calendly.com/info-clo2/bluegreen-labs-office-hours). To stay up to date please follow us on [LinkedIn](https://www.linkedin.com/company/bluegreen-labs).
 
 > [!NOTE]
-> Out of an abundance of caution, and considering data sovereignity, we [now mirror our most valuable assest on Codeberg](https://codeberg.org/bluegreen-labs).
+> Out of an abundance of caution, and considering data sovereignity and enshitification, we [now mirror our most valuable assest on Codeberg](https://codeberg.org/bluegreen-labs).
 > Published data, code should be formally indexed on Zenodo (with a DOI) and might, or might not, be migrated to Codeberg. For we will work of off github projects, but might revise this policy depending on the geopolitical situation.
 
 ## Accessing data :open_file_folder:
