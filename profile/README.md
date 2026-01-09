@@ -4,7 +4,7 @@ If you find anything missing, a software bug or want to add documentation we ref
 
 > [!NOTE]
 > Out of an abundance of caution, considering data sovereignity and enshitification, we [now mirror our most valuable assest on Codeberg](https://codeberg.org/bluegreen-labs).
-> Published data, code should be formally indexed on Zenodo (with a DOI) and might, or might not, be migrated to Codeberg. For we will work of off github projects, but might revise this policy depending on the geopolitical situation.
+> Published data, code should be formally indexed on Zenodo (with a DOI) and might, or might not, be migrated to Codeberg. For now we will work of off github projects, but might revise this policy ad-hoc and fast. These changes will be noted here, or on a project by project basis.
 
 ## Accessing data :open_file_folder:
 
